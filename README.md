@@ -1,8 +1,10 @@
-Dashboard de Vendas - Power BI
+## Dashboard de Vendas - Power BI
+
+## Dashboard
 
 ![Dashboard](dashboard_vendas.png)
 
-Este é um projeto simples de análise de vendas feito para praticar Power BI e começar a montar um portfólio na área de dados.
+Este é um projeto simples de análise de vendas desenvolvido para praticar Power BI e iniciar um portfólio na área de dados.
 
 A ideia foi trabalhar com uma base de dados propositalmente bagunçada, fazer o tratamento no Power Query e depois montar um dashboard com alguns indicadores básicos de vendas.
 
